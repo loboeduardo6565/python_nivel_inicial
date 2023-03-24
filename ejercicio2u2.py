@@ -6,3 +6,7 @@
 frutas = ["bananas", "manzanas"]
 
 print(f"Me gusta comer {frutas[1]} y {frutas[0]}")
+
+fruits = ["manzana", "uva"]
+
+print("Con" + fruits[0] + "Podríamos hacer sidra Y con" + fruits[1] "Vino")
